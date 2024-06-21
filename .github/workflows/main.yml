@@ -30,3 +30,4 @@ jobs:
           npm run build  # Если требуется сборка проекта
           npm start &    # Запуск приложения в фоновом режиме
           echo "Application deployed!"
+
